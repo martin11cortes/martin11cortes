@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for sports 
 - 🔭 I'm currently working on freelance projects.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on Javascript/TypeScript based libraries/projects.
-## - 🤔 I’m looking for help with [If you need help with anything].
 - 💬 Ask me about anything related with JavaScript.
 - 📫 How to reach me: martinxcortes@gmail.com.
 
